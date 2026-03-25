@@ -1,4 +1,4 @@
-4-bit adder with self-checking testbench.
+4-bit adder + testbench.
 
 ## Features
-- 4-bit inputs -> 5-bit sum
+* 4-bit inputs -> 5-bit sum
